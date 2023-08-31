@@ -1,0 +1,72 @@
+
+#menu
+{
+    background-color: cadetblue;
+}
+.borderBlue
+{
+    border: 1px solid blue;
+    border-radius: 3px;
+}
+.itemMenu a
+{
+    font-size: 18px;
+    font-weight: bold;
+}
+.borderBlack
+{
+    border:1px solid black;
+    border-radius: 5px;
+    color:white;
+    width: 20%;
+}
+form
+{
+    text-align: center;
+    display: block;
+    margin: auto;
+    height: 20%;
+    padding: 10px;
+}
+
+.contentForm
+{
+    padding: 10px;
+    text-align: right;
+}
+#bannerPrincipal
+{
+    margin-top: 25px;
+    display: block;
+    text-align: center;
+}
+
+li
+{
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 10px
+}
+h4
+{
+    text-align: center;
+}
+
+input
+{
+    height: 250px;
+    width: 250px;
+    height: 20px;
+    
+}
+footer
+{
+    margin-top: 10%;
+    height: 100%;
+    background-color: grey;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
