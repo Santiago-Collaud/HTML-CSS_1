@@ -1,24 +1,15 @@
 
-#menu
-{
-    background-color: cadetblue;
-}
 .borderBlue
 {
     border: 1px solid blue;
     border-radius: 3px;
-}
-.itemMenu a
-{
-    font-size: 18px;
-    font-weight: bold;
 }
 .borderBlack
 {
     border:1px solid black;
     border-radius: 5px;
     color:white;
-    width: 50%;
+    width: 80%;
 }
 form
 {
@@ -31,7 +22,7 @@ form
 
 .contentForm
 {
-    padding: 10px;
+    padding: auto;
     text-align: right;
 }
 #bannerPrincipal
